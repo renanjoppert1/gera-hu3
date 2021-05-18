@@ -4,5 +4,13 @@ Esta extensão foi criada para ajudar desenvolvedores a testarem seus softwares,
 - CPF
 - Placa de Veículo
 
+## Instruções para Instalação
+
+### No Chrome/Microsoft Edge
+<img src="https://cdn.quasar.dev/img/adding-bex-to-chrome-with-debug.png" />
+
+### No Firefox
+<img src="https://cdn.quasar.dev/img/adding-bex-to-firefox.png" />
+
 Ajude este projeto a crescer
 <a href="https://www.linkedin.com/in/renan-joppert/" target="_blank">Me manda uma mensagem no Linkedin</a>
